@@ -1,0 +1,23 @@
+Baketa
+Copyright (c) 2026 Baketa contributors
+
+Este producto incluye software y recursos de terceros. El detalle completo, con
+origen, licencia y obligaciones, está en THIRD-PARTY-NOTICES.md.
+
+Lo que se distribuye dentro de la aplicación:
+
+1. Tipografías Barlow y Barlow Condensed
+   Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)
+   SIL Open Font License 1.1 — licenses/OFL-1.1-Barlow.txt,
+   licenses/OFL-1.1-Barlow-Condensed.txt
+
+2. Capacitor (solo en la aplicación Android)
+   Copyright (c) 2017-present Drifty Co.
+   MIT License — licenses/MIT-Capacitor.txt
+
+3. Bibliotecas AndroidX / Jetpack (solo en la aplicación Android)
+   Copyright The Android Open Source Project
+   Apache License 2.0 — licenses/Apache-2.0.txt
+
+El resto (código, sonidos sintetizados, iconos, grooves y textos) es original de
+este proyecto y se distribuye bajo la licencia MIT del archivo LICENSE.

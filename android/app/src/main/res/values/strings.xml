@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Baketa</string>
+    <string name="title_activity_main">Baketa</string>
+    <string name="package_name">com.baketa.app</string>
+    <string name="custom_url_scheme">com.baketa.app</string>
+</resources>

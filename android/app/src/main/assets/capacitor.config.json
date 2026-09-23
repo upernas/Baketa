@@ -1,0 +1,11 @@
+{
+	"appId": "com.baketa.app",
+	"appName": "Baketa",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": false
+	},
+	"server": {
+		"androidScheme": "https"
+	}
+}

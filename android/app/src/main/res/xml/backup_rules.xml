@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copia de seguridad de Android: ajustes y grooves del usuario (localStorage del
+     WebView). No hay credenciales ni datos personales. -->
+<full-backup-content>
+    <include domain="database" path="." />
+    <include domain="sharedpref" path="." />
+</full-backup-content>

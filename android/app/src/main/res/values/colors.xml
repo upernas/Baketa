@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores de la app (ver src/styles.css) -->
+    <color name="colorPrimary">#161A22</color>
+    <color name="colorPrimaryDark">#111419</color>
+    <color name="colorAccent">#E8B53A</color>
+    <color name="ic_launcher_background">#161A22</color>
+    <color name="splashBackground">#161A22</color>
+</resources>

@@ -1,0 +1,35 @@
+# Dependencias y compilaciones
+node_modules
+dist
+dist-single
+*.log
+.DS_Store
+
+# --- Firma de la app: NUNCA subir al repositorio ---
+# La clave de firma es irrecuperable: si se pierde o se filtra, no se pueden
+# publicar actualizaciones. Guárdala fuera del proyecto y con copia.
+*.jks
+*.keystore
+keystore.properties
+android/keystore.properties
+android/key.properties
+google-play-service-account*.json
+
+# Android (generado por Gradle y por `npx cap sync`)
+android/build
+android/app/build
+android/.gradle
+android/local.properties
+android/app/release
+android/app/src/main/assets/public
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/capacitor-cordova-android-plugins
+android/app/capacitor.build.gradle
+*.apk
+*.aab
+
+# Editores
+.idea
+*.iml
+.vscode
